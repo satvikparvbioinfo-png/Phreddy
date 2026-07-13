@@ -43,17 +43,15 @@
 ## 📸 Screenshots
 
 **1. Landing page — first view on opening the app**
-
- ![Landing page](docs/screenshots/landing-page.png) 
+   ![Landing page](Screenshots/landing-page.png)
 
 **2. Uploading a FASTQ file**
 
- ![Uploading a file](docs/screenshots/file-upload.png) 
+  ![Uploading a file](Screenshots/file-upload.png)
 
 **3. Generated quality report**
 
- ![Quality report results](docs/screenshots/results-view.png) 
-
+ ![Quality report results](Screenshots/results-view.png)
 
 ---
 
