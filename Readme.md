@@ -48,7 +48,7 @@
 
 **2. Uploading a FASTQ file**
 
- ![Uploading a file](docs/screenshots/file-upload.png) 
+ ![Uploading a file](docs/Screenshots/file-upload.png)
 
 **3. Generated quality report**
 
