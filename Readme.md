@@ -190,7 +190,7 @@ python main.py sample_data/sample.fastq
 streamlit run app.py
 ```
 
-Then open the local URL shown in your terminal (usually `http://localhost:8501`), upload a `.fastq` file, and watch your quality report come to life. ✨
+Then open the local URL shown in your terminal (usually `https://satvikparvbioinfo-png-phreddy-app-w6vrer.streamlit.app/).. upload a `.fastq` file, and watch your quality report come to life. ✨
 
 ---
 
